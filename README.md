@@ -19,8 +19,8 @@
 <div align="center" >
 
 
-![AmandaLeopoldo's Stats](https://github-readme-stats.vercel.app/api?username=AmandaLeopoldo&theme=gotham&show_icons=true&hide_border=false&count_private=true)
-![AmandaLeopoldo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaLeopoldo&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+![AmandaLeopoldo's Stats](https://github-readme-stats.vercel.app/api?username=AmandaLeopoldoo&theme=gotham&show_icons=true&hide_border=false&count_private=true)
+![AmandaLeopoldo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaLeopoldoo&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
 ##
 
@@ -28,4 +28,9 @@
   <a href = "amandaleopoldo2930@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/amanda-leopoldo-a61478319" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![snake gif](https://github.com/Amandaleopoldoo/Amanda_Leopoldo/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
